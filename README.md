@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Hasnat Hassan
 
-<!--
-**hasnat-hassan/hasnat-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Front-End Developer** with a solid foundation in building modern, scalable web applications using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I love turning high-fidelity Figma designs into pixel-perfect, responsive UIs and integrating APIs to bring apps to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+- 🔧 Build real-time and full-stack web applications
+- 🧠 Solve front-end problems with performance and accessibility in mind
+- 💡 Convert Figma designs into fully functional web interfaces
+- 🔐 Implement authentication, CRUD operations, and database integration (Supabase & MongoDB)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|-------------|-------------|
+| **Bookit** | `Next.js`, `TypeScript`, `Supabase` | A full-stack app with authentication and dynamic data rendering. |
+| **Portfolio** | `Next.js`, `Tailwind CSS`, `Framer Motion` | My personal portfolio with animations and light/dark theme toggle. |
+| **Practice Projects** | `HTML`, `CSS`, `JavaScript` | Collection of mini-projects built while learning frontend development. |
+| **React Learning** | `React`, `JSX`, `Hooks` | A repo showcasing my journey through React fundamentals. |
+
+---
+
+### 📂 Note on Contributions
+> You may notice a gap in my public GitHub activity — that’s because I’ve been actively contributing to **private repositories** under company projects.  
+> My real experience goes far beyond what’s visible here.
+
+---
+
+### 📫 Let’s Connect
+- 📬 Email: `hasnat.hassan.dev@gmail.com`
+
+---
+
+_Thanks for visiting! ✨_
