@@ -30,7 +30,7 @@ I'm a passionate **Front-End Developer** with a solid foundation in building mod
 ---
 
 ### 📫 Let’s Connect
-- 📬 Email: `hasnat.hassan.dev@gmail.com`
+- 📬 Email: `hasnathassan397@gmail.com`
 
 ---
 
