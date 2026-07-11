@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4F46E5&height=220&section=header&text=Hasnat%20Hassan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B368,50:00FF88,100:00E676&height=220&section=header&text=Hasnat%20Hassan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer+%40+Revnix;React.js+%7C+Next.js+%7C+TypeScript+Engineer;Building+Scalable%2C+Production-Ready+Web+Apps;9%2B+Products+Shipped+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CFFB8&center=true&vCenter=true&width=650&lines=Frontend+Developer+%40+Revnix;React.js+%7C+Next.js+%7C+TypeScript+Engineer;Building+Scalable%2C+Production-Ready+Web+Apps;9%2B+Products+Shipped+to+Production" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Diploma](https://img.shields.io/badge/DAE-Info%20%26%20Comm.%20Technology-6D28D9?style=flat-square&labelColor=1a1a2e)
-![BS Software Engineering](https://img.shields.io/badge/BS-Software%20Engineering%20(In%20Progress)-7C3AED?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/📍-Haripur,%20Khyber%20Pakhtunkhwa,%20Pakistan-4F46E5?style=flat-square&labelColor=1a1a2e)
+![Diploma](https://img.shields.io/badge/DAE-Info%20%26%20Comm.%20Technology-00B368?style=flat-square&labelColor=1a1a2e)
+![BS Software Engineering](https://img.shields.io/badge/BS-Software%20Engineering%20(In%20Progress)-00FF88?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍-Haripur,%20Khyber%20Pakhtunkhwa,%20Pakistan-00E676?style=flat-square&labelColor=1a1a2e)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hasnat--hassan.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://hasnat-hassan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/hasnat-hassan)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:hasnathassan397@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/hasnat-hassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hasnat--hassan.me-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://hasnat-hassan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00B368?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/hasnat-hassan)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-00FF88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:hasnathassan397@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00E676?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/hasnat-hassan)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasnat-hassan&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/hasnat-hassan?color=6D28D9&style=flat-square&label=Followers&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/hasnat-hassan?color=4F46E5&style=flat-square&label=Stars&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=hasnat-hassan&color=00FF88&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/hasnat-hassan?color=00B368&style=flat-square&label=Followers&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/hasnat-hassan?color=00E676&style=flat-square&label=Stars&labelColor=1a1a2e)
 
 </div>
 
@@ -89,15 +89,15 @@ Beyond the frontend, I regularly work across the stack: integrating REST APIs, m
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,supabase&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/NextAuth%2FAuth.js-7C3AED?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/REST_APIs-4F46E5?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/NextAuth%2FAuth.js-00FF88?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/REST_APIs-00E676?style=flat-square&labelColor=1a1a2e" />
 
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,postman,vercel&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Coolify-6D28D9?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Coolify-00B368?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&labelColor=1a1a2e" />
 
 <br/>
@@ -234,11 +234,13 @@ Deliver frontend development across 9+ production web applications, including cl
 
 | Recognition | Details |
 |---|---|
-| *Add your achievement* | *Add details here* |
+| 🚀 **Promoted to Frontend Developer** | Advanced from Frontend Development Intern to full-time Frontend Developer at Revnix in under 6 months (Feb 2024 → Aug 2024) |
+| 🏗️ **9+ Production Applications Shipped** | Delivered frontend development across 9+ live client and internal products using React.js, Next.js, and TypeScript |
+| ⚙️ **Built an Internal CMS Platform** | Designed and developed Nextly CMS — a role-based system (Admin/Editor/Viewer) with a custom CLI tool and token-based authentication |
+| 🧑‍🏫 **Mentored Junior Developers** | Conducted code reviews and mentored junior developers and interns while managing production workloads |
+| 📚 **Continuous Learner** | Completed 4 professional courses in HTML5/CSS3, JavaScript, React, and Next.js to build a strong full-stack foundation |
 
 </div>
-
-> *No achievements were listed on your CV — replace the row above, or let me know and I'll remove this section.*
 
 <br/>
 
@@ -250,13 +252,13 @@ Deliver frontend development across 9+ production web applications, including cl
 
 ### Udemy
 
-[![HTML5 & CSS3](https://img.shields.io/badge/Design%20%26%20Develop%20a%20Killer%20Website%20with%20HTML5%20%26%20CSS3-6D28D9?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+[![HTML5 & CSS3](https://img.shields.io/badge/Design%20%26%20Develop%20a%20Killer%20Website%20with%20HTML5%20%26%20CSS3-00B368?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-[![Modern JavaScript](https://img.shields.io/badge/Modern%20JavaScript%20From%20The%20Beginning-7C3AED?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+[![Modern JavaScript](https://img.shields.io/badge/Modern%20JavaScript%20From%20The%20Beginning-00FF88?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
-[![The Ultimate React Course](https://img.shields.io/badge/The%20Ultimate%20React%20Course-4F46E5?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/the-ultimate-react-course/)
+[![The Ultimate React Course](https://img.shields.io/badge/The%20Ultimate%20React%20Course-00E676?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/the-ultimate-react-course/)
 
-[![Next.js Full Stack](https://img.shields.io/badge/Next.js%20%E2%80%94%20Build%20Full%20Stack%20Apps%20with%20Next.js%20%26%20TypeScript-8B5CF6?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/nextjs-build-full-stack-apps-with-nextjs-using-redux/)
+[![Next.js Full Stack](https://img.shields.io/badge/Next.js%20%E2%80%94%20Build%20Full%20Stack%20Apps%20with%20Next.js%20%26%20TypeScript-00FFAA?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/nextjs-build-full-stack-apps-with-nextjs-using-redux/)
 
 </div>
 
@@ -280,10 +282,10 @@ Deliver frontend development across 9+ production web applications, including cl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasnat-hassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnat-hassan&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hasnat-hassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CFFB8&icon_color=00FFAA&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnat-hassan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00FFAA&fire=5CFFB8&currStreakLabel=5CFFB8" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnat-hassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnat-hassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CFFB8&text_color=C9D1D9" width="49%" />
 
 </div>
 
@@ -295,7 +297,7 @@ Deliver frontend development across 9+ production web applications, including cl
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasnat-hassan&theme=discord&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=hasnat-hassan&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -307,7 +309,7 @@ Deliver frontend development across 9+ production web applications, including cl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnat-hassan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnat-hassan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CFFB8&line=00FF88&point=00FFAA" width="100%" />
 
 </div>
 
@@ -357,10 +359,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-hasnathassan397%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:hasnathassan397@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hasnat--hassan-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/hasnat-hassan)
-[![GitHub](https://img.shields.io/badge/GitHub-hasnat--hassan-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/hasnat-hassan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hasnat--hassan.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://hasnat-hassan.me)
+[![Gmail](https://img.shields.io/badge/Gmail-hasnathassan397%40gmail.com-00B368?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:hasnathassan397@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hasnat--hassan-00FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/hasnat-hassan)
+[![GitHub](https://img.shields.io/badge/GitHub-hasnat--hassan-00E676?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/hasnat-hassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hasnat--hassan.me-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://hasnat-hassan.me)
 
 </div>
 
@@ -372,6 +374,6 @@ Open To:
 
 *"Clean code, thoughtful design, and reliable systems — built one production release at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:00FF88,100:00B368&height=120&section=footer" width="100%"/>
 
 </div>
