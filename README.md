@@ -244,11 +244,19 @@ Deliver frontend development across 9+ production web applications, including cl
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Courses
 
 <div align="center">
 
-*No certifications were listed on your CV. Once you share them, I'll group badges here by provider (AWS, Oracle, NPTEL, Cisco, etc.).*
+### Udemy
+
+[![HTML5 & CSS3](https://img.shields.io/badge/Design%20%26%20Develop%20a%20Killer%20Website%20with%20HTML5%20%26%20CSS3-6D28D9?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+
+[![Modern JavaScript](https://img.shields.io/badge/Modern%20JavaScript%20From%20The%20Beginning-7C3AED?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+
+[![The Ultimate React Course](https://img.shields.io/badge/The%20Ultimate%20React%20Course-4F46E5?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/the-ultimate-react-course/)
+
+[![Next.js Full Stack](https://img.shields.io/badge/Next.js%20%E2%80%94%20Build%20Full%20Stack%20Apps%20with%20Next.js%20%26%20TypeScript-8B5CF6?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1a2e)](https://www.udemy.com/course/nextjs-build-full-stack-apps-with-nextjs-using-redux/)
 
 </div>
 
