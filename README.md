@@ -317,13 +317,47 @@ Deliver frontend development across 9+ production web applications, including cl
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snakes
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hasnat-hassan/hasnat-hassan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+### 👤 Personal Contributions
 
-<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a scheduled GitHub Action in your profile repo to render.</sub>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hasnat-hassan/company-snake/output/personal/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hasnat-hassan/company-snake/output/personal/github-snake.svg"
+  />
+  <img
+    alt="Personal Contribution Snake"
+    src="https://raw.githubusercontent.com/hasnat-hassan/company-snake/output/personal/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+<br><br>
+
+### 🏢 Company Contributions (hasnat-rx)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hasnat-hassan/company-snake/output/company/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hasnat-hassan/company-snake/output/company/github-snake.svg"
+  />
+  <img
+    alt="Company Contribution Snake"
+    src="https://raw.githubusercontent.com/hasnat-hassan/company-snake/output/company/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
